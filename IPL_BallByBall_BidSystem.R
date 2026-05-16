@@ -333,7 +333,7 @@ get_player_bid <- function(model_result, player_name) {
 get_player_bid(result, "V Kohli")
 get_player_bid(result, "MS Dhoni")
 get_player_bid(result, "JJ Bumrah")
-get_player_bid(result, "V suryavnshi")
+get_player_bid(result, "V Suryavanshi")
 
 # ── STEP 15: Save Results ────────────────────────────────────
 write.csv(
